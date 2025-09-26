@@ -46,7 +46,12 @@ repo_trophies:
 # Layout
 # -----------------------------------------------------------------------------
 
-navbar_fixed: true
+navbar_fixed: false
+navbar_links:
+  - title: "Publications"
+    url: "/publications/"
+  - title: "CV"
+    url: "/cv/"
 footer_fixed: true
 search_enabled: true
 socials_in_search: true
