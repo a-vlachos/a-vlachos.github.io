@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student at the <a href='https://www.rug.nl/research/bernoulli/groups/sco/'>Systems, Control and Optimization Group, University of Groningen</a>. 
+subtitle: PhD Student, <a href='https://www.rug.nl/research/bernoulli/groups/sco/'>Systems, Control and Optimization Group, University of Groningen</a>. 
 
 profile:
   align: right
