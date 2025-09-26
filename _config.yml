@@ -83,14 +83,14 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-# blog_name: aifolio # blog_name will be displayed in your blog page
-# blog_description: a simple whitespace theme for academics
-# permalink: /blog/:year/:title/
-# lsi: false # produce an index for related posts
+blog_name: aifolio # blog_name will be displayed in your blog page
+blog_description: a simple whitespace theme for academics
+permalink: /blog/:year/:title/
+lsi: false # produce an index for related posts
 
-# # Pagination
-# pagination:
-#   enabled: true
+# Pagination
+pagination:
+  enabled: false
 
 related_blog_posts:
   enabled: false
