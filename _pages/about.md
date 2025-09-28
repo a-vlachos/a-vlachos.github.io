@@ -23,8 +23,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student at the <a href='https://www.rug.nl/research/bernoulli/groups/sco/'>System, Control and Optimization Group</a> at the <a href='https://www.rug.nl/'>University of Groningen</a>, supervised by Prof. <a href='https://www.math.rug.nl/~besselink/'>Bart Besselink</a>. I am currently working on the modular design of control systems using <a href='https://people.rennes.inria.fr/Albert.Benveniste/pub/ContractsMonograph2018.pdf'>Contract Theory</a>. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously, I obtained the MSc in Systems and Control from <a href='https://ethz.ch/en.html'>ETH Zürich</a>. During my studies, I collaborated with Dr. <a href='https://www.linkedin.com/in/aren-karapetyan/'>Aren Karapetyan</a>, Dr. <a href='https://n.ethz.ch/~atsiamis/'>Anastasios Tsiamis</a>, Dr. <a href='https://www.ebalta.me/'>Efe Balta</a> and Prof. <a href='https://control.ee.ethz.ch/people/profile.john-lygeros.html'>John Lygeros</a> on learning-based (online) control for tracking. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I completed my undergraduate studies in Electrical and Computer Engineering at the National Technical University of Athens. 
