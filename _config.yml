@@ -293,6 +293,7 @@ scholar:
 enable_publication_badges:
   abstract: true
   pdf: true
+  abbr: true
   altmetric: true # Altmetric badge (Customization options: https://badge-docs.altmetric.com/index.html)
   dimensions: true # Dimensions badge (Customization options: https://badge.dimensions.ai/)
   google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
