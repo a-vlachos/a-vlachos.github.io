@@ -32,9 +32,9 @@
     - title: Teaching Assistant for <a href='https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=194178&semkez=2025W&ansicht=LEHRVERANSTALTUNGEN&lang=en'>Linear System Theory</a>
       institution: ETH Zürich
       year: Autumn 2023, Autumn 2024
-      description: Consult on the clarity, correctness and difficulty of the proposed homework and grade the homework submissions of students, on a biweekly basis.
+        - Consult on the clarity, correctness and difficulty of the proposed homework and grade the homework submissions of students, on a biweekly basis.
     - title: <a href='https://people.ee.ethz.ch/~floriand/ATIC.html'>Advanced Topics in Control: Distributed Systems & Control</a>
       institution: ETH Zürich
       year: Spring 2024
-      description: Grade the homework submissions of students, on a monthly basis, and provide grades statistics.
+        - Grade the homework submissions of students, on a monthly basis, and provide grades statistics.
 
