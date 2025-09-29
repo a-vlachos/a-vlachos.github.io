@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student at the System, Control and Optimization Group at the University of Groningen| , supervised by Prof. <a href='https://www.math.rug.nl/~besselink/'>Bart Besselink</a>. I am currently working on the modular design of control systems using <a href='https://people.rennes.inria.fr/Albert.Benveniste/pub/ContractsMonograph2018.pdf'>Contract Theory</a>. 
+I am a PhD student at the System, Control and Optimization Group at the University of Groningen, supervised by Prof. <a href='https://www.math.rug.nl/~besselink/'>Bart Besselink</a>. I am currently working on the modular design of control systems using <a href='https://people.rennes.inria.fr/Albert.Benveniste/pub/ContractsMonograph2018.pdf'>Contract Theory</a>. 
 
 Previously, I obtained the MSc in Systems and Control from <a href='https://ethz.ch/en.html'>ETH Zürich</a>. During my studies, I worked at the <a href='https://control.ee.ethz.ch/'>Automatic Control Laboratory (IfA)</a> on learning-based (online) control for tracking. A public-friendly overview of my work can be found <a href='https://www.real-lab.ch/optimal-tracking-performance'>here</a>.
 <!---
